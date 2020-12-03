@@ -27,9 +27,9 @@ After changing the configuration ... you can immediately try it with a web serve
 
 | Webserver | Webhosting | 
 | ----------- | :---------: |
-| [Infinity Free](infinityfree.net)| [Xampp](https://choosealicense.com/licenses/mit/) | 
-| [000webhost](https://choosealicense.com/licenses/mit/) | [Wampp](https://choosealicense.com/licenses/mit/) | 
-| and Others | Isi 2 - 3 | 
+| [Infinity Free](infinityfree.net)| [Xampp](https://www.apachefriends.org/index.html) | 
+| [000webhost](https://id.000webhost.com/) | [Wampp](https://www.wampserver.com/en/) | 
+| and Others | and Others | 
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
