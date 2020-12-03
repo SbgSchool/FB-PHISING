@@ -1,0 +1,16 @@
+{
+    "name": "fb-phising/fb-phising",
+    "description": "This project is for those of you who want to use phishing attacks",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "SbgSchool",
+            "email": "sbg.school62@gmail.com"
+        }
+    ],
+    "require": {
+        "fzaninotto/faker": "^1.9",
+        "dompdf/dompdf": "^0.8.3"
+    }
+}
